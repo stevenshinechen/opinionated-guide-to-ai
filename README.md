@@ -25,6 +25,8 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 ### Optimization
 - Numerical Optimization (Jorge Nocedal and Stephen J. Wright)
 
+### Linear Algebra
+- Introduction to Linear Algebra (Gilbert Strang)
 
 ### Software Engineering
 - [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (Andrew Hunt, David Thomas)
@@ -55,22 +57,37 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 
 ### Deep Learning
 - [MIT 6.7960: Deep Learning](https://deeplearning6-7960.github.io)
+- [Stanford CS312: Deep Learning Alchemy](https://deep-learning-alchemy.github.io)
+- [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home?pli=1&authuser=0)
 
 ### Reinforcement Learning
 - [MIT 6.7920: Reinforcement Learning: Foundations And Methods
 ](https://web.mit.edu/6.7920/www/)
 - [Stanford CS 224R: Deep Reinforcement Learning](https://cs224r.stanford.edu)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+- [DeepMind x UCL | Introduction to Reinforcement Learning 2015 (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
+- [DeepMind x UCL | RL Lecture Series 2021](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=UIFFrjVHSbLtVSAo)
+- [Foundations of Deep RL (Pieter Abbeel)](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0&si=sIFO3o8ilnHUM3XD)
 
 ### Language Modeling
 - [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu)
 - [MIT 6.864: Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/)
 
 ### Multi-Agent
-- [MIT 6.S890: Topics in Multiagent Learning](https://www.mit.edu/~gfarina/6S890/)
+- [MIT 6.7980: Topics in Multiagent Learning](https://www.mit.edu/~6.7980/)
 
 ### Optimization
 - [MIT 6.7220: Nonlinear Optimization](https://www.mit.edu/~gfarina/67220/)
+
+### Information Theory
+- [Cambridge (David MacKay): Information Theory, Pattern Recognition, and neural networks](https://youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6&si=llVQDhOxw2bR-QPG)
+
+### Linear Algebra
+- [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [MIT 18.065: Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
+### Neuroscience
+- [MIT 9.13: The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)
 
 ### Software Engineering
 - [MIT 6.172: Performance Engineering Of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
@@ -82,3 +99,13 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 ### Paper Collections
 - [Ilya Sutskever's Reading List](https://github.com/dzyim/ilya-sutskever-recommended-reading)
 - [Transformer Circuits](https://transformer-circuits.pub) (Anthropic's Interpretability Research)
+
+### Multi-Agent
+- [Human-level play in the game of Diplomacy by
+combining language models with strategic reasoning (Cicero)](https://noambrown.com/papers/22-Science-Diplomacy-TR.pdf)
+- [Modeling Strong and Human-Like Gameplay with KL-Regularized Search (piKL)](https://arxiv.org/pdf/2112.07544)
+- [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning (Diplodocus, RL-DiL-piKL)](https://arxiv.org/pdf/2210.05492)
+- [A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games (Magnetic Mirror Descent)](https://arxiv.org/pdf/2206.05825)
+
+### World Models
+- [A Path Towards Autonomous Machine Intelligence (Yann LeCun)](https://openreview.net/pdf?id=BZ5a1r-kVsf)
