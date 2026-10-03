@@ -75,6 +75,7 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 
 ### Multi-Agent
 - [MIT 6.7980: Topics in Multiagent Learning](https://www.mit.edu/~6.7980/)
+- [UW CSE 599J: Social Reinforcement Learning](https://courses.cs.washington.edu/courses/cse599j/24sp/)
 
 ### Optimization
 - [MIT 6.7220: Nonlinear Optimization](https://www.mit.edu/~gfarina/67220/)
