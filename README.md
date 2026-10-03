@@ -78,6 +78,7 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 
 ### Optimization
 - [MIT 6.7220: Nonlinear Optimization](https://www.mit.edu/~gfarina/67220/)
+- [Stanford EE364A Convex Optimization 1](https://web.stanford.edu/class/ee364a/)
 
 ### Information Theory
 - [Cambridge (David MacKay): Information Theory, Pattern Recognition, and neural networks](https://youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6&si=llVQDhOxw2bR-QPG)
@@ -85,6 +86,10 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 ### Linear Algebra
 - [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [MIT 18.065: Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
+### Calculus
+- [MIT 18.02: Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
+- [MIT 18.063/18.S096: Matrix Calculus For Machine Learning And Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
 
 ### Neuroscience
 - [MIT 9.13: The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)
