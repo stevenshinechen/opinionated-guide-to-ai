@@ -106,6 +106,25 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 - [Ilya Sutskever's Reading List](https://github.com/dzyim/ilya-sutskever-recommended-reading)
 - [Transformer Circuits](https://transformer-circuits.pub) (Anthropic's Interpretability Research)
 
+### Transformers
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+- [Universal Transformers](https://arxiv.org/pdf/1807.03819)
+
+### Attention
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+- [DeltaNet Explained (Songlin Yang)](https://sustcsonglin.github.io/blog/2024/deltanet-1/)
+- [DeltaFormer](https://arxiv.org/pdf/2505.19488v1)
+- [Kimi Linear (Kimi Delta Attention)](https://arxiv.org/pdf/2510.26692)
+
+### Scaling Laws
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+- [Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/pdf/2203.15556)
+- [Scaling Laws, Carefully (Lil'Log)](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)
+
+### Multimodal
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)
+- [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020)
+
 ### Multi-Agent
 - [Human-level play in the game of Diplomacy by
 combining language models with strategic reasoning (Cicero)](https://noambrown.com/papers/22-Science-Diplomacy-TR.pdf)
