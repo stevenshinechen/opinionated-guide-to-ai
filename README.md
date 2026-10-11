@@ -100,6 +100,12 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 - [MIT 6.5840: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 - Pintos Operating Systems Project [Stanford CS140: Operating Systems](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) (also found in Imperial College London's OS course)
 
+## Essays
+
+- [The Intelligence Curse](https://intelligence-curse.ai)
+- [Dario Amodei's Essays](https://darioamodei.com)
+- [An Opinionated Guide to ML Research by John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
+
 ## Papers
 
 ### Paper Collections
