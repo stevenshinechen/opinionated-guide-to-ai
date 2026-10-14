@@ -53,6 +53,10 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 ### Recommended Episodes
 - [Jiayi Weng (WhynotTV)](https://youtu.be/I0DrcsDf3Os)
 
+## Talks
+[An Observation on Generalization (Ilya Sutskever)](https://www.youtube.com/live/AKMuA_TVz3A?si=7HXGWFFLXR5k99_j)
+[Agentic AI MOOC | UC Berkeley CS294-196 Fall 2025 | Multi-Agent AI by Noam Brown](https://www.youtube.com/live/SrLcGdVOb9w?si=2JZ2TrnvgBmfacnI)
+
 ## Courses
 
 ### Deep Learning
@@ -89,11 +93,13 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 - [MIT 18.065: Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 ### Calculus
+- [Multivariable Calculus (Khan Academy)](https://youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&si=WczFu9Tz5c9y5StB)
 - [MIT 18.02: Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
 - [MIT 18.063/18.S096: Matrix Calculus For Machine Learning And Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
 
 ### Neuroscience
 - [MIT 9.13: The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)
+- [Stanford BIO 150: Human Behavioral Biology](https://youtube.com/playlist?list=PLzxlKUNNLxmEvjCSUAurMReJBZxaLdD1_&si=p8PaMvA4VGfVjFXP)
 
 ### Software Engineering
 - [MIT 6.172: Performance Engineering Of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
@@ -104,7 +110,10 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 
 - [The Intelligence Curse](https://intelligence-curse.ai)
 - [Dario Amodei's Essays](https://darioamodei.com)
+
+## Blogs
 - [An Opinionated Guide to ML Research by John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [Visual Information Theory by Chris Olah](https://colah.github.io/posts/2015-09-Visual-Information/)
 
 ## Papers
 
