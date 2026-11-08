@@ -114,6 +114,8 @@ Foundations and Modern Approaches](https://www.marl-book.com) (Stefano V. Albrec
 ## Blogs
 - [An Opinionated Guide to ML Research by John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [Visual Information Theory by Chris Olah](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Jianlin Su's Scientific Spaces Blog](https://kexue.fm) - It is in Chinese, English speakers can translate the page.
+- [Kaiyue Wen's Blog](https://whenwen.github.io/blog/)
 
 ## Papers
 
@@ -149,3 +151,6 @@ combining language models with strategic reasoning (Cicero)](https://noambrown.c
 
 ### World Models
 - [A Path Towards Autonomous Machine Intelligence (Yann LeCun)](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+
+### Optimization
+- 
